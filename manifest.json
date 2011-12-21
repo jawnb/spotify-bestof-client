@@ -1,0 +1,23 @@
+{
+	"BundleType": "Application",
+	"AppIcon": {
+		"36x18": "tutorial.png"
+	},
+	"AppName": {
+		"en": "bestof"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+		"https://www.googleapis.com", "http://connect.facebook.net", "https://fbcdn-profile-*.akamaihd.net", "http://*.fbcdn.net", "http://*", "https://*", "https://www.facebook.com"
+	],
+	"ApiPermissions" : {
+            "core" : ["private"],
+            "social" : ["private"],
+            "playlist" : ["private"]
+    },
+	
+
+
+}
